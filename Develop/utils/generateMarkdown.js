@@ -68,6 +68,7 @@ function generateMarkdown(response) {
   [Contributing](#Contributing)
   [tests](#tests)
   [license](#license)
+  [questions](#questions)
 
   ## Installation
   ${response.install}
@@ -85,6 +86,11 @@ function generateMarkdown(response) {
   ${licenseSection}
   ${licenseBadge}
   ${licenseLink}
+
+  #Questions
+
+  [Email me:](${response.email})
+  [Review my other projects on GitHub.](https://www.github.com/${response.username})
 
 `;
 }
