@@ -1,5 +1,5 @@
 
-  # Profession ReadMe Generator
+  #  Profession ReadMe Generator
 
   ## Description
   An application that allows the user to create a ReadMe.MD file
@@ -7,8 +7,8 @@
   ## Table of Contents
   [Title](#Title)
   [description](#Description)
-  [demo video](#Demo Video)
-  [install](#Install)
+  [Demo Video](#Demo Video)
+  [Install](#Install)
   [Usage](#Usage)
   [Contributing](#Contributing)
   [tests](#Tests)
@@ -25,7 +25,7 @@
   node index.js
 
   ## Contributing
-  Kenneth Ramondo
+   Kenneth Ramondo
 
   ## Tests
   In the terminal run npm install and then node index.js and and answer the proceeding prompts
@@ -37,8 +37,8 @@
 
   ## Questions
 
-  [Email me:](ramondokenny585@gmail.com)
+  [Email me]( ramondokenny585@gmail.com)
 
-  
-  [Review my other projects on GitHub.](https://www.github.com/kramon25)
+
+  [Review my other projects on GitHub](https://www.github.com/kramon25)
 

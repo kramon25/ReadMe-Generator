@@ -63,8 +63,8 @@ function generateMarkdown(response) {
   ## Table of Contents
   [Title](#Title)
   [description](#Description)
-  [demo video](#Demo Video)
-  [install](#Install)
+  [Demo Video](#Demo Video)
+  [Install](#Install)
   [Usage](#Usage)
   [Contributing](#Contributing)
   [tests](#Tests)
@@ -93,10 +93,10 @@ function generateMarkdown(response) {
 
   ## Questions
 
-  [Email me:](${response.email})
+  [Email me](${response.email})
 
-  
-  [Review my other projects on GitHub.](https://www.github.com/${response.username})
+
+  [Review my other projects on GitHub](https://www.github.com/${response.username})
 
 `;
 }
