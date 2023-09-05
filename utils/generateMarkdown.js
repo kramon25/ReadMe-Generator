@@ -92,7 +92,7 @@ function generateMarkdown(response) {
 
   ## Questions
 
-  [Email me: ${response.email}]
+  Email me: ${response.email}
 
 
   [Review my other projects on GitHub](https://www.github.com/${response.username})
