@@ -63,7 +63,6 @@ function generateMarkdown(response) {
   ## Table of Contents
   [Title](#Title)
   [description](#Description)
-  [Demo Video](#Demo Video)
   [Install](#Install)
   [Usage](#Usage)
   [Contributing](#Contributing)
