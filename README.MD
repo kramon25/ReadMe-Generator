@@ -2,7 +2,7 @@
   # Professional ReadMe Generator
 
   ## Description
-  An application that creates a readme.md file
+  An application that creates a ReadMe.MD file for the user
 
   ## Table of Contents
   [Title](#Title)
@@ -15,23 +15,23 @@
   [questions](#questions)
 
   ## Installation
-  npm install
+  Run npm install in the terminal
 
   ## Usage
-  node index.js
+  Run node index.js in the terminal
 
   ## Contributing
-  Kenny Ramondo
+  Kenneth Ramondo
 
   ## Tests
-  run the install + use, answer the prompts and a readme file is generated
+  Open terminal run an nmp i insatll, then run a node index.js. Proceed to answer the prompt questions.
 
   ## license
   MIT License
   https://img.shields.io/badge/License-MIT-yellow.svg
   https://opensource.org/licenses/MIT
 
-  #Questions
+  ## Questions
 
   [Email me:](ramondokenny585@gmail.com)
   [Review my other projects on GitHub.](https://www.github.com/kramon25)
