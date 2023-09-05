@@ -62,13 +62,17 @@ function generateMarkdown(response) {
 
   ## Table of Contents
   [Title](#Title)
-  [description](#description)
-  [install](#install)
+  [description](#Description)
+  [demo video](#Demo Video)
+  [install](#Install)
   [Usage](#Usage)
   [Contributing](#Contributing)
-  [tests](#tests)
-  [license](#license)
-  [questions](#questions)
+  [tests](#Tests)
+  [license](#License)
+  [questions](#Questions)
+
+  ## Demo Video
+
 
   ## Installation
   ${response.install}
@@ -82,7 +86,7 @@ function generateMarkdown(response) {
   ## Tests
   ${response.tests}
 
-  ## license
+  ## License
   ${licenseSection}
   ${licenseBadge}
   ${licenseLink}
@@ -90,6 +94,8 @@ function generateMarkdown(response) {
   ## Questions
 
   [Email me:](${response.email})
+
+  
   [Review my other projects on GitHub.](https://www.github.com/${response.username})
 
 `;
